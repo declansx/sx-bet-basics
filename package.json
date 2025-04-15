@@ -1,0 +1,23 @@
+{
+  "name": "api-basics",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@metamask/eth-sig-util": "^8.2.0",
+    "ably": "^2.6.5",
+    "axios": "^1.8.4",
+    "bignumber.js": "^9.1.2",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "inquirer": "^12.5.0",
+    "node-fetch": "^3.3.2"
+  }
+}
