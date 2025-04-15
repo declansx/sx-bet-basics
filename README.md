@@ -14,7 +14,7 @@ A collection of Node.js scripts for interacting with the SX Bet API. This projec
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/sx-bet-basics.git
+git clone https://github.com/declansx/sx-bet-basics.git
 ```
 
 2. Install dependencies:
