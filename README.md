@@ -1,6 +1,6 @@
 # SX Bet API Basics
 
-A collection of Node.js scripts for interacting with the SX Bet API. This project demonstrates how to fetch data and interact with various API endpoints for sports betting.
+A collection of standalone javascript modules for SX Bet API calls. This project demonstrates how to fetch data and interact with various API endpoints.
 
 ## Modules
 
