@@ -4,7 +4,7 @@ A collection of Node.js scripts for interacting with the SX Bet API. This projec
 
 ## Modules
 
--**fetchMetadata.js**: Script for fetching the exchange metadata
+- **fetchMetadata.js**: Script for fetching the exchange metadata
 - **fetchSports.js**: Script for fetching available sports, leagues, fixtures and markets
 - **fetch-orders**: Scripts for fetching order data
 - **fetch-trades**: Scripts for retrieving trade information
